@@ -1,0 +1,6 @@
+django==3.0.8
+djangorestframework==3.11.0
+djangorestframework-jsonapi==3.1.0
+django-cors-headers
+djoser
+psycopg2==2.8.5
